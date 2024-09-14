@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C2337507-98F0-45DF-A2EF-88C3B5B27727}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab5_ONIONArxitectura/Program.cs">
+    <Files>
+      <File FileName="Lab5_ONIONArxitectura/Program.cs" Line="34" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab5_ONIONArxitectura" expanded="True">
+            <Node name="Lab5_ONIONArxitectura" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Lab5_ONIONArxitectura.Domain" expanded="True" />
+            <Node name="Lab5_ONIONArxitectura.Repository" expanded="True" />
+            <Node name="Lab5_ONIONArxitectura.Service" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab5__ONIONArxitectura.Service FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Lab5__ONIONArxitectura PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Lab5__ONIONArxitectura.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab5__ONIONArxitectura.Repository FirstBuild="True" />
+</Properties>

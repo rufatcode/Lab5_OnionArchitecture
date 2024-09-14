@@ -1,0 +1,256 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.csproj": {}
+  },
+  "projects": {
+    "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Domain/Lab5_ONIONArxitectura.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Domain/Lab5_ONIONArxitectura.Domain.csproj",
+        "projectName": "Lab5_ONIONArxitectura.Domain",
+        "projectPath": "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Domain/Lab5_ONIONArxitectura.Domain.csproj",
+        "packagesPath": "/Users/rufat/.nuget/packages/",
+        "outputPath": "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rufat/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Repository/Lab5_ONIONArxitectura.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Repository/Lab5_ONIONArxitectura.Repository.csproj",
+        "projectName": "Lab5_ONIONArxitectura.Repository",
+        "projectPath": "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Repository/Lab5_ONIONArxitectura.Repository.csproj",
+        "packagesPath": "/Users/rufat/.nuget/packages/",
+        "outputPath": "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rufat/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Domain/Lab5_ONIONArxitectura.Domain.csproj": {
+                "projectPath": "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Domain/Lab5_ONIONArxitectura.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/Lab5_ONIONArxitectura.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/Lab5_ONIONArxitectura.Service.csproj",
+        "projectName": "Lab5_ONIONArxitectura.Service",
+        "projectPath": "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/Lab5_ONIONArxitectura.Service.csproj",
+        "packagesPath": "/Users/rufat/.nuget/packages/",
+        "outputPath": "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rufat/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Repository/Lab5_ONIONArxitectura.Repository.csproj": {
+                "projectPath": "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Repository/Lab5_ONIONArxitectura.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.csproj",
+        "projectName": "Lab5_ONIONArxitectura",
+        "projectPath": "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.csproj",
+        "packagesPath": "/Users/rufat/.nuget/packages/",
+        "outputPath": "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rufat/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/Lab5_ONIONArxitectura.Service.csproj": {
+                "projectPath": "/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/Lab5_ONIONArxitectura.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/bin/Debug/net6.0/Lab5_ONIONArxitectura.Service.deps.json
+/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/bin/Debug/net6.0/Lab5_ONIONArxitectura.Service.dll
+/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/bin/Debug/net6.0/Lab5_ONIONArxitectura.Service.pdb
+/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/bin/Debug/net6.0/Lab5_ONIONArxitectura.Domain.dll
+/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/bin/Debug/net6.0/Lab5_ONIONArxitectura.Repository.dll
+/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/bin/Debug/net6.0/Lab5_ONIONArxitectura.Repository.pdb
+/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/bin/Debug/net6.0/Lab5_ONIONArxitectura.Domain.pdb
+/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/obj/Debug/net6.0/Lab5_ONIONArxitectura.Service.csproj.AssemblyReference.cache
+/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/obj/Debug/net6.0/Lab5_ONIONArxitectura.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/obj/Debug/net6.0/Lab5_ONIONArxitectura.Service.AssemblyInfoInputs.cache
+/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/obj/Debug/net6.0/Lab5_ONIONArxitectura.Service.AssemblyInfo.cs
+/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/obj/Debug/net6.0/Lab5_ONIONArxitectura.Service.csproj.CoreCompileInputs.cache
+/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/obj/Debug/net6.0/Lab5_ONI.EE918FE6.Up2Date
+/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/obj/Debug/net6.0/Lab5_ONIONArxitectura.Service.dll
+/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/obj/Debug/net6.0/refint/Lab5_ONIONArxitectura.Service.dll
+/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/obj/Debug/net6.0/Lab5_ONIONArxitectura.Service.pdb
+/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/obj/Debug/net6.0/ref/Lab5_ONIONArxitectura.Service.dll

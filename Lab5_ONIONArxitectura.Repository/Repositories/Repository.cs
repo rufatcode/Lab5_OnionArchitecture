@@ -14,6 +14,7 @@ public class Repository<T>:IRepository<T> where T:BaseEntity
   public void Update(T entity)
   {
     T existEntity = AppDbContext<T>.Datas.FirstOrDefault(e => e.Id == entity.Id);
+    existEntity.UpdatedAt=DateTime.Now;;
     existEntity = entity;
   }
   

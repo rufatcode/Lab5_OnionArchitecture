@@ -8,7 +8,7 @@ public interface IService<T>where T:BaseEntity
   public ResponseObject Create(T entity);
   public ResponseObject Update(T entity);
   public ResponseObject Delete(int id);
-  public ResponseObject DeleteFromDb(T entity);
+  public ResponseObject DeleteFromDb(int id);
   public List<T> GetAll();
   public T GetById(int id);
   public List<T> GetAllAdmin();

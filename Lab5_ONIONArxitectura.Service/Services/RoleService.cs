@@ -34,8 +34,31 @@ public class RoleService:IRoleService
 
   public ResponseObject Update(Role entity)
   {
-    throw new NotImplementedException();
-  }
+    Role existRole = GetById(entity.Id);
+    //{role1,rol2}
+    //role1->1.Admin,0513004484->SuperAdmin
+    //role2->2.SupperAdmin,0558000909
+
+    Role roleByName = _roleRepository.GetByName(entity.Name);
+     if (roleByName!=null&&existRole.Id!=roleByName.Id)
+      {
+        return new ResponseObject()
+        {
+          StatusCode = 400,
+          Message = $"{entity.Name} already has exist"
+        };
+      }
+
+    existRole.Name = entity.Name;
+    existRole.Phone = entity.Phone;
+    _roleRepository.Update(existRole);
+      return new ResponseObject()
+      {
+        StatusCode = 200,
+        Message = $"{entity.Name} has successfully updated"
+      };
+    }
+  
 
   public ResponseObject Delete(int id)
   {
@@ -55,9 +78,9 @@ public class RoleService:IRoleService
     };
   }
 
-  public ResponseObject DeleteFromDb(Role entity)
+  public ResponseObject DeleteFromDb(int id)
   {
-    Role existRole = GetById(entity.Id);
+    Role existRole = GetById(id);
     if (existRole==null)
     {
       return new ResponseObject()

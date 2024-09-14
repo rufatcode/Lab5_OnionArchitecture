@@ -15,3 +15,4 @@
 /Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/obj/Debug/net6.0/refint/Lab5_ONIONArxitectura.Service.dll
 /Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/obj/Debug/net6.0/Lab5_ONIONArxitectura.Service.pdb
 /Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/obj/Debug/net6.0/ref/Lab5_ONIONArxitectura.Service.dll
+/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura.Service/obj/Debug/net6.0/Lab5_ONIONArxitectura.Service.sourcelink.json

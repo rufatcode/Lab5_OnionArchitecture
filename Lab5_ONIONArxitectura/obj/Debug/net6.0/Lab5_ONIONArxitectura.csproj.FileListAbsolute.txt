@@ -20,3 +20,4 @@
 /Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura/bin/Debug/net6.0/Lab5_ONIONArxitectura.Repository.pdb
 /Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura/obj/Debug/net6.0/Lab5_ONIONArxitectura.csproj.AssemblyReference.cache
 /Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura/obj/Debug/net6.0/Lab5_ONI.287DA2AF.Up2Date
+/Volumes/Mac/PB-402/Lab5_ONIONArxitectura/Lab5_ONIONArxitectura/obj/Debug/net6.0/Lab5_ONIONArxitectura.sourcelink.json
